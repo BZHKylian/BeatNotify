@@ -15,7 +15,6 @@ binaryornot==0.4.3
 black==23.1.0
 bleach==5.0.1
 blinker==1.5
-Brlapi==0.8.4
 Brotli==1.0.9
 bytecode==0.14.0
 certifi==2022.9.24
