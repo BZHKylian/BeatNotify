@@ -83,7 +83,6 @@ lazy-object-proxy==1.9.0
 libsass==0.22.0
 lockfile==0.12.2
 logilab-common==1.9.8
-louis==3.24.0
 lxml==4.9.2
 lz4==4.0.2+dfsg
 Mako==1.2.4.dev0
