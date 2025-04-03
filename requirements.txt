@@ -27,7 +27,6 @@ contourpy==1.0.7
 cookiecutter==1.7.3
 coverage==6.5.0
 cryptography==38.0.4
-cupshelpers==1.0
 cycler==0.11.0
 dbus-python==1.3.2
 debugpy==1.6.3+git20221103.a2a3328
